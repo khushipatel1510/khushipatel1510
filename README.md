@@ -1,5 +1,5 @@
 <h1 align="center">Hello, My name is Khushi Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 - 📫 How to reach me **khushisnehalpatel@gmail.com**
 
