@@ -1,7 +1,7 @@
 <h1 align="center">Hello, My name is Khushi Patel</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 📫 How to reach me **khushisnehalpatel@gmail.com**
+📫 Reach out to me on **khushisnehalpatel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
