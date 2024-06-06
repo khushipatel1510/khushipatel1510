@@ -3,7 +3,7 @@
 
 📫 Reach out to me on **khushisnehalpatel@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
