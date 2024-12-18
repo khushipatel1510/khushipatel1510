@@ -1,7 +1,7 @@
 <h1 align="center">Hello , My name is Khushi Patel</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
